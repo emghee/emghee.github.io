@@ -1,1 +1,3 @@
-# emghee.github.io
+# Welcome to my site!
+
+Please excuse the appearance during construction
